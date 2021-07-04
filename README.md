@@ -1,2 +1,2 @@
 # CNC-Server
-A Server for CNC Messeging Services
+A Server for CNC Messaging Services

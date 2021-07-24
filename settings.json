@@ -1,0 +1,9 @@
+{
+  "__comment___": "Configurations for CNC Server",
+  "__version__" : "1.0",
+  "LICENCE" : "MIT",
+  "URL": "https://github.com/CNC-Messenger/CNC-Server",
+  "PORT" : "5556"
+
+
+}

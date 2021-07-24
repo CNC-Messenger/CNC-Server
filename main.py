@@ -26,7 +26,7 @@ class Server:
 
     def say_welcome(self):
         welcome_string = "".join((
-            "CNC Messaging Serivce Server ",
+            "CNC Messaging Service Server ",
             "v",str(self._version)," ",
             "Copyright (C) 2021 ",str(self._url),"\n"
             "Licensed under the terms of the MIT License ","\n",
